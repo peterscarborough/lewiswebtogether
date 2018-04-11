@@ -33,5 +33,8 @@ you can google
 one of them, a simple instruction.
 https://dev.to/programliftoff/create-your-first-website-on-github-pages
 
+you can try some online wysiwyg editors, for exaample this one:
 
+StackEdit – In-browser Markdown editor
+https://stackedit.io/
 
