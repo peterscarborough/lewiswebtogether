@@ -38,7 +38,7 @@ these are good things, very useful for collaboration. But not for web pages visi
 **4.make some changes**
 click the file you want to change and click button in the screen shot.
 
-![edit](edit.png "edit button screenshot")
+![edit](eidt.png "edit button screenshot")
 
 
 **5.other resouces:**
@@ -55,7 +55,7 @@ you can try some online wysiwyg editors, for exaample this one:
 StackEdit – In-browser Markdown editor
 https://stackedit.io/
 
-###next...### 
+###next...
 come back here 
 https://github.com/peterscarborough/lewiswebtogether
 
