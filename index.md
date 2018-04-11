@@ -55,8 +55,9 @@ you can try some online wysiwyg editors, for exaample this one:
 StackEdit – In-browser Markdown editor
 https://stackedit.io/
 
-###next...
+###next
+
 come back here 
 https://github.com/peterscarborough/lewiswebtogether
 
-and I will add how to sync with gitbook.com section.
+and I will add other topics like how to sync with gitbook.com later.
