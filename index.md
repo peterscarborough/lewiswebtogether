@@ -7,11 +7,20 @@ https://github.com/peterscarborough/lewiswebtogether
 
  see the screen shot below, and click fork.
 
-![fork](fork.png "Logo Title Text 1")
+![fork](fork.png "fork repository screenshot")
 
   **2. setup github pages**
 click settings and go to github pages area, see screen shot:
 
+![setting](setting.png "setting button screenshot")
+
+github pages area:
+
+![pages](pages.png "pages area screenshot")
+
+select master branch here.
+
+![branch](branch.png "select branch screenshot")
 
 Once finish, go to 
 
@@ -23,18 +32,21 @@ Once you point your domain to here, you have a new website.
 **3.notice wiki issues buttons**
 these are good things, very useful for collaboration. But not for web pages visitors. Only for editors.
 
+![goodthings](goodthings.png "wiki and issues screenshot")
+
 
 **4.make some changes**
-click through buttons in the screen shot and try to make some changes and see it reflect on the web.
+click the file you want to change and click button in the screen shot.
 
+![edit](edit.png "edit button screenshot")
 
 
 **5.other resouces:**
-you can google 
+you can google keywords
 
 "how to use github pages to build a website"
 
-one of them, a simple instruction.
+one of results, a simple instruction.
 https://dev.to/programliftoff/create-your-first-website-on-github-pages
 
 **6. online wysiwyg editors**
@@ -43,7 +55,7 @@ you can try some online wysiwyg editors, for exaample this one:
 StackEdit – In-browser Markdown editor
 https://stackedit.io/
 
-next... 
+**next...** 
 come back here 
 https://github.com/peterscarborough/lewiswebtogether
 
